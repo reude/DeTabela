@@ -86,7 +86,8 @@ section.tabela{
 
 /* Main noticia */
  
-.s-main{
+section.s-main{
+    margin: auto;
     margin-left: 250px;
     margin-top: 50px;
 }
